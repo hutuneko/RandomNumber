@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.hutuneko.randomnumber.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "randomnumber.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "MixinFont"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
